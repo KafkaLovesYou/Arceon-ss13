@@ -1,4 +1,4 @@
-##Arceon
+##Arceon Station 13
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as
@@ -13,4 +13,6 @@ for more details.
 
 Arceon Station is a branch of Yogstation https://github.com/yogstation13/yogstation
 
+Arceon fork lead dev: Original Dingo (BYOND Ckey)
+Gratitude towards AsV9, David Edwards, Cruix and the rest of the Yogstation dev team
 
