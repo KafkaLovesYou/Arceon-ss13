@@ -14,5 +14,4 @@ for more details.
 Arceon Station is a branch of Yogstation https://github.com/yogstation13/yogstation
 
 Arceon fork lead dev: Original Dingo (BYOND Ckey)
-Gratitude towards AsV9, David Edwards, Cruix and the rest of the Yogstation dev team
-
+Gratitude towards AsV9, David Edwards, Cruix and the rest of the Yogstation dev team, and the teams of prior branches, including /tg/ devs and Bay12 devs.
